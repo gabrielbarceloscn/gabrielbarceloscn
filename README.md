@@ -22,11 +22,11 @@ _Easy, Fast, Reliable with Multi-Document ACID Transactions_
 _Plataforma versátil e universal, executável em Docker, RaspBerryPi, Linux, Windows e Mac._  
 
 [ASP NET CORE](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)  
-_Backend Web onde crio:  
-_Razor Pages: páginas geradas em servidor, no estilo PHP.  
-_MVC: implementação do padrão MVC.  
-_WebAPI: api's de nível corporativo.  
-_  
+  
+_**Razor Pages:** páginas geradas em servidor, no estilo PHP._ 
+_**MVC:** implementação do padrão MVC._ 
+_**WebAPI:** api's de nível corporativo._ 
+
   
 **Frontend Desktop:**  
 [WINDOWS FORMS](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)  
