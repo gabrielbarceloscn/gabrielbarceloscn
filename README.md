@@ -1,7 +1,7 @@
 ### Olá, Me chamo Gabriel Barcelos
 
-Sou desenvolvedor, e também me arrisco abrindo negócios.  
-[`A melhor parte da programação`] é ter o poder de criar!   
+Sou desenvolvedor "fullStack", e também me arrisco abrindo negócios.  
+Programar, no tempo em que vivemos, é ter o poder de **#criar**! É como realizar o sonho de infância, de tornar a **#imaginação** realidade, e ainda ser **#remunerado** por isso. 🙂     
 
 O _CN_ na minha tag faz menção a [Caldas Novas - GO](https://caldasnovas.app) - Maior Estância Hidrotermal do Mundo.
 Me tornei desenvolvedor em uma cidade `turística`, e meus principais projetos comerciais são direcionados pra esse setor da economia.
