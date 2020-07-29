@@ -8,25 +8,32 @@ Me tornei desenvolvedor em uma cidade `turística`, e meus principais projetos c
   
 ### Projetos que me divirto  
 <a href="https://caldasnovas.app">
-<img src="https://img.shields.io/badge/-Caldas%20Novas%20APP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Caldas%20Novas%20APP-gray?style=for-the-badge"/>
 </a>
 
+### 🌱 Tecnologias que uso no dia-a-dia:  
 
+*Banco de Dados:*  
+[💜 RavenDB](https://github.com/ravendb/ravendb)  
+_Easy, Fast, Reliable with Multi-Document ACID Transactions_  
   
-### Tópicos:
 
-🌱 Tecnologias que uso no dia-a-dia:  
+*Backend:*  
+[.NET CORE](https://dotnet.microsoft.com/)  
+_Evoluiu como um projeto multiplataforma e universal._  
+[ASP NET CORE](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
+_Aqui tenho como opção Razor Pages, MVC_  
+  
+*Frontend Desktop:*  
+[WINDOWS FORMS](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)  
+_Alguns produtos tem partes/módulos que precisam ser executados localmente. Nesses casos uso essa plataforma, em conjunto com componentes DevExpress. Essa tecnologia poderia talvez ser substituída por [Electron](https://www.electronjs.org/), mas não tenho familiaridade._
 
-Backend:  
-[.NET CORE](https://dotnet.microsoft.com/): Evoluiu como um projeto multiplataforma e universal.
-[ASP NET CORE](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1):
-
-Frontend Desktop:  
-[WINDOWS FORMS](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
-
-Frontend Web:  
+*Frontend Web:*  
 [ReactJS](https://reactjs.org/)  
+_Gosto de como o React me força a aprender mais sobre fundamentos de JavaScript_
+
 [NextJS](https://nextjs.org/)  
+
 
 ### Vamos manter contato:
 
@@ -44,18 +51,3 @@ Frontend Web:
 - 🏢 [@timesharesolucoesbr](https://github.com/TimeShareSolucoes)  
 - 🏢 [@tecsharpbr](https://github.com/TecSharp)  
   
-
-<!--
-**gabrielbarceloscn/gabrielbarceloscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
