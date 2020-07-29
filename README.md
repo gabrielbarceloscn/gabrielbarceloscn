@@ -56,8 +56,4 @@ _Sites estaticamente gerados._
   
 ---
 ▪️ Faça um README mais legal que o meu:  
-[@kautukkundan Awesome Profile README Template](https://github.com/kautukkundan/Awesome-Profile-README-templates)  
-[@elangosundar Awesome Profile README Template](https://github.com/elangosundar/awesome-README-templates)  
-[Shields.IO - Badges](https://shields.io/)  
-[Como fazer um README de sucesso](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)  
-[Profile integrado com Spotify](https://github.com/andyruwruw)  
+[@kautukkundan Awesome Profile README Template](https://github.com/kautukkundan/Awesome-Profile-README-templates)  [@elangosundar Awesome Profile README Template](https://github.com/elangosundar/awesome-README-templates)  [Shields.IO - Badges](https://shields.io/)  [Como fazer um README de sucesso](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)  [Profile integrado com Spotify](https://github.com/andyruwruw)  
