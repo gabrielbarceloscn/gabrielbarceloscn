@@ -13,22 +13,21 @@ Me tornei desenvolvedor em uma cidade `turística`, e meus principais projetos c
 
 ### 🌱 Tecnologias que uso no dia-a-dia:  
 
-*Banco de Dados:*  
+**Banco de Dados:**  
 [💜 RavenDB](https://github.com/ravendb/ravendb)  
 _Easy, Fast, Reliable with Multi-Document ACID Transactions_  
   
-
-*Backend:*  
+**Backend:**  
 [.NET CORE](https://dotnet.microsoft.com/)  
 _Evoluiu como um projeto multiplataforma e universal._  
 [ASP NET CORE](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
 _Aqui tenho como opção Razor Pages, MVC_  
   
-*Frontend Desktop:*  
+**Frontend Desktop:**  
 [WINDOWS FORMS](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)  
 _Alguns produtos tem partes/módulos que precisam ser executados localmente. Nesses casos uso essa plataforma, em conjunto com componentes DevExpress. Essa tecnologia poderia talvez ser substituída por [Electron](https://www.electronjs.org/), mas não tenho familiaridade._
 
-*Frontend Web:*  
+**Frontend Web:**  
 [ReactJS](https://reactjs.org/)  
 _Gosto de como o React me força a aprender mais sobre fundamentos de JavaScript_
 
@@ -47,7 +46,7 @@ _Gosto de como o React me força a aprender mais sobre fundamentos de JavaScript
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/gabrielbarceloscn" alt="Facebook" />
   </a>
   
-  ### Organizações:  
-- 🏢 [@timesharesolucoesbr](https://github.com/TimeShareSolucoes)  
-- 🏢 [@tecsharpbr](https://github.com/TecSharp)  
+### Organizações:  
+🏢 [@timesharesolucoesbr](https://github.com/TimeShareSolucoes)  
+🏢 [@tecsharpbr](https://github.com/TecSharp)  
   
