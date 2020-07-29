@@ -19,9 +19,14 @@ _Easy, Fast, Reliable with Multi-Document ACID Transactions_
   
 **Backend:**  
 [.NET CORE](https://dotnet.microsoft.com/)  
-_Evoluiu como um projeto multiplataforma e universal._  
-[ASP NET CORE](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
-_Aqui tenho como opção Razor Pages, MVC_  
+_Plataforma versátil e universal, executável em Docker, RaspBerryPi, Linux, Windows e Mac._  
+
+[ASP NET CORE](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)  
+_Backend Web onde crio:  
+_Razor Pages: páginas geradas em servidor, no estilo PHP.  
+_MVC: implementação do padrão MVC.  
+_WebAPI: api's de nível corporativo.  
+_  
   
 **Frontend Desktop:**  
 [WINDOWS FORMS](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)  
@@ -32,7 +37,7 @@ _Alguns produtos tem partes/módulos que precisam ser executados localmente. Nes
 _Gosto de como o React me força a aprender mais sobre fundamentos de JavaScript_
 
 [NextJS](https://nextjs.org/)  
-
+_Sites estaticamente gerados._
 
 ### Vamos manter contato:
 
