@@ -52,7 +52,7 @@ _Sites estaticamente gerados._
   
 ### Organizações:  
 🏢 [@timesharesolucoesbr](https://github.com/TimeShareSolucoes)  
-🏢 [@tecsharpbr](https://github.com/TecSharp)  
+🏢 [@grbtec](https://github.com/GrbTec)  
   
 ---
 ▪️ Faça um README mais legal que o meu:  
